@@ -21,7 +21,7 @@ Skills: REACT / JS / HTML / CSS / Node Js / Express Js / Mongodb / Tailwind / Bo
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MirRiyadh&show_icons=true&theme=radical) 
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=MirRiyadh)  
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=MirRiyadh&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)  
 
 ![GitHub metrics](https://metrics.lecoq.io/MirRiyadh)  
 
