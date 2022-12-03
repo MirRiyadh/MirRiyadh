@@ -8,7 +8,7 @@ Skills: REACT / JS / HTML / CSS / Node Js / Express Js / Mongodb / Tailwind / Bo
 - 🌱 I’m currently learning Mongo / Express / Node / js 
 - 👯 I’m looking to collaborate on github 
 - 💬 Ask me about Front end development 
-- 📫 How to reach me: mirriyadh1@gmail.com 
+- 📫 How to reach me: riyadh.ju@gmail.com
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MirRiyadh)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40' style="color:red;">](https://www.linkedin.com/in/https://www.linkedin.com/in/mirriyadh//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/mirriyadh.ali/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/10985243/mir-riyadh-ali)  
