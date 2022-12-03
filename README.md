@@ -19,7 +19,7 @@ Skills: REACT / JS / HTML / CSS / Node Js / Express Js / Mongodb / Tailwind / Bo
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MirRiyadh)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MirRiyadh&show_icons=true)  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MirRiyadh&show_icons=true&theme=radical) 
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=MirRiyadh)  
 
