@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Mir Riyadh
+## Hi there 👋, I'm Mir Riyadh
 #### MERN Stack Developer
 This is Mir Riyadh an enthusiastic React developer. I have passion for learning new technologies on web development . Learning MERN stack development makes me so confident to grow up a great career. now, this is the right place to show my skills and others talents. And I want  to dominate the web IT sector and be that person which I always dreaming of.
 .
