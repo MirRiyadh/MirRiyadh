@@ -23,7 +23,7 @@ Skills: REACT / JS / HTML / CSS / Node Js / Express Js / Mongodb / Tailwind / Bo
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mirriyadh&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![GitHub metrics](https://metrics.lecoq.io/MirRiyadh)  
+![GitHub metrics](https://metrics.lecoq.io/mirriyadh)
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=MirRiyadh)  
 
